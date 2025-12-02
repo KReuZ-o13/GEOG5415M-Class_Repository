@@ -6,7 +6,7 @@
 # Add your point as a new item in the list. 
 # Create a new line for your point, and don't forget the square brackets and the comma
 # Poinst should be in the following format:
-# [ latitude, longitude, "description" ]
+# [ latitude, longitude, "description" ],
 
 points_list = [
     [  53.808478, -1.5527924, "University of Leeds" ],
@@ -14,8 +14,8 @@ points_list = [
 
     # Add more points here
 
-    [ 53.794974, -1.548180, "Leeds Station" ], 
-    [ 53.810209, -1.565007, "Woodhouse Moor" ], 
+    # [ latitude, longitude, "description" ],
+    # [ latitude, longitude, "description" ],
 
 ]
 
