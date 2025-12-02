@@ -35,7 +35,6 @@ points_list = [
     [ 34.635559760774335, 112.43468890635228, "Kathy's favourite Chinese restaurant"],
     
 
-    [  53.800350,-1.539687, " Chenxi's favourite Thai Restaurant"],
     [  53.800350,-1.539687, "Chenxis favourite Thai Restaurant"],
 ]
 
