@@ -16,14 +16,15 @@ points_list = [
 
     # Add more points here
 
-     [ 52.65026, -0.47385, "Albert Bridge" ],
-     [ 52.50787, -0.40212, "Cara's Hill" ],
+    # [ latitude, longitude, "description" ],
+    # [ latitude, longitude, "description" ],
     [  53.814665, -1.6376061, "Fran's favourite bakery"],
     
     [  53.800622, -1.5483202, "The Leeds Art Gallery!" ],
     [  53.798874, -1.5408800, "Rayan's Favourite Japanese Restaurant" ],
-    [  34.58223767715908, 135.79883198965894, "Kuni's favourite ramen restaurant in Japan"],
-    [  53.800350,-1.539687, " Chenxi's favourite Thai Restaurant"],
+    [  34.58223767715908, 135.79883198965894, "Kuni's favourite ramen restaurant in Japan"]
+    [  53.800350,-1.539687, " Chenxi's favourite Thai Restaurant]
+    [  22.48608, 113.89863, " Ziming's favourite place to watch the sunset by the sea"]
 ]
 
 def get_points():
