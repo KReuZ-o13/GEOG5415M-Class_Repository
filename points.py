@@ -11,11 +11,13 @@
 points_list = [
     [  53.808478, -1.5527924, "University of Leeds" ],
     [  53.840032, -1.6432286, "Nick's neighbourhood" ],
+    
 
     # Add more points here
 
     # [ latitude, longitude, "description" ],
     # [ latitude, longitude, "description" ],
+    [  53.814665, -1.6376061, "Fran's favourite bakery"],
 
 ]
 
