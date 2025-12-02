@@ -16,6 +16,8 @@ points_list = [
 
     # Add more points here
 
+    [ 53.48013, -1.33385, "Burley Studios" ],
+    [ 53.80245634447995, -1.5416290922527782, "IQ Altus" ],
      [ 52.65026, -0.47385, "Albert Bridge" ],
      [ 52.50787, -0.40212, "Cara's Hill" ],
     [  53.814665, -1.6376061, "Fran's favourite bakery"],
